@@ -1,0 +1,6 @@
+@PrudhviProject_HostAddress = http://localhost:5005
+
+GET {{PrudhviProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
