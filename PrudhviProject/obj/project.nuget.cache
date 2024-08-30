@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "HJVJRrpP6m8=",
+  "dgSpecHash": "eqZYAW60rNo=",
   "success": true,
   "projectFilePath": "C:\\Users\\Madhav Reddy\\Desktop\\Prudhvi\\PrudhviProject\\PrudhviProject\\PrudhviProject.csproj",
   "expectedPackageFiles": [
@@ -117,6 +117,8 @@
     "C:\\Users\\Madhav Reddy\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
     "C:\\Users\\Madhav Reddy\\.nuget\\packages\\mono.texttemplating\\2.3.1\\mono.texttemplating.2.3.1.nupkg.sha512",
     "C:\\Users\\Madhav Reddy\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Madhav Reddy\\.nuget\\packages\\npgsql\\8.0.3\\npgsql.8.0.3.nupkg.sha512",
+    "C:\\Users\\Madhav Reddy\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\8.0.4\\npgsql.entityframeworkcore.postgresql.8.0.4.nupkg.sha512",
     "C:\\Users\\Madhav Reddy\\.nuget\\packages\\nuget.common\\6.9.1\\nuget.common.6.9.1.nupkg.sha512",
     "C:\\Users\\Madhav Reddy\\.nuget\\packages\\nuget.configuration\\6.9.1\\nuget.configuration.6.9.1.nupkg.sha512",
     "C:\\Users\\Madhav Reddy\\.nuget\\packages\\nuget.dependencyresolver.core\\6.9.1\\nuget.dependencyresolver.core.6.9.1.nupkg.sha512",

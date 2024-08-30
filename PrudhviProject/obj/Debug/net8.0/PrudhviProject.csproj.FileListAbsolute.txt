@@ -250,3 +250,6 @@ C:\Users\Madhav Reddy\Desktop\Prudhvi\PrudhviProject\PrudhviProject\bin\Debug\ne
 C:\Users\Madhav Reddy\Desktop\Prudhvi\PrudhviProject\PrudhviProject\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Users\Madhav Reddy\Desktop\Prudhvi\PrudhviProject\PrudhviProject\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Madhav Reddy\Desktop\Prudhvi\PrudhviProject\PrudhviProject\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\Madhav Reddy\Desktop\Prudhvi\PrudhviProject\PrudhviProject\obj\Debug\net8.0\PrudhviProject.sourcelink.json
+C:\Users\Madhav Reddy\Desktop\Prudhvi\PrudhviProject\PrudhviProject\bin\Debug\net8.0\Npgsql.dll
+C:\Users\Madhav Reddy\Desktop\Prudhvi\PrudhviProject\PrudhviProject\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
